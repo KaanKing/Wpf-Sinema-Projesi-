@@ -1,1 +1,1 @@
-Wpf App
+Wpf App Sinema bilet alma uygulaması
